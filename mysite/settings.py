@@ -25,7 +25,7 @@ SECRET_KEY = 'az00w#h=(5=&9_nscb8rqd2m@)o+$%lulfcbi(^1pr432igvel'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['byrdv.pythonanywhere.com']
 
 
 # Application definition
